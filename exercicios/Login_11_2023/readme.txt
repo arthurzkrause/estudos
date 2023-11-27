@@ -1,5 +1,4 @@
 Este código consiste em um sistema básico de criação de conta e login. 
-Aqui está um resumo das funcionalidades principais:
 
 Criação de Conta:
 - Solicita ao usuário que insira um endereço de e-mail.
@@ -26,3 +25,5 @@ medidas adicionais, como o armazenamento seguro de senhas, seriam necessárias p
 
 Texto revisado.
 Gerado por https://chat.openai.com/
+
+Código criado em Novembro de 2023
