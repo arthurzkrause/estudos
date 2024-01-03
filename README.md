@@ -28,8 +28,6 @@ Criar portfólio com exercícios propostos durante o estudo de Python.
 ➡️ [Adivinhe o numero](https://github.com/arthurzkrause/estudos/blob/main/exercicios/adivinhe_numero_11_2023/codigo.py)<br>
 ➡️ [Perguntas e Respostas](https://github.com/arthurzkrause/estudos/blob/main/exercicios/perguntas_respostas_11_2023/codigo.py)<br>
 ➡️ [Função - Calculadora de Média](https://github.com/arthurzkrause/estudos/blob/main/exercicios/calc_media_12_2023/codigo.py)<br>
-<<<<<<< HEAD
 ➡️ [Gerador - Fibonacci](https://github.com/arthurzkrause/estudos/blob/main/exercicios/fibonacci_generator_12_2023/codigo.py)<br>
-=======
-➡️ [Gerador - Fibonacci](https://github.com/arthurzkrause/estudos/blob/main/exercicios/fibonacci_generator_12_2023/codigo.py)<br>
->>>>>>> 3c51b44e523ab80086dae078538cdfdbdd7e8d1d
+➡️ [Alterar e ordenar valores](https://github.com/arthurzkrause/estudos/blob/main/exercicios/produtos_10percent_ordem_12_23/codigo.py)<br>
+➡️ [100 Perguntas para personagens de RPG](https://github.com/arthurzkrause/estudos/blob/main/exercicios/cem_perguntas_RPG_01_2024/codigo.py)<br>
