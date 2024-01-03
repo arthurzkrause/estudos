@@ -9,7 +9,7 @@ cem_perguntas = [
 "A que classe social você pertence?",
 "Tem alguma alergia, doença ou outra fraqueza física?",
 "É destro ou canhoto?",
-"Como é a sua voz/como soa?",
+"Como é a sua voz?",
 "Quais palavras ou frases você usa frequentemente?",
 "O que você tem nos bolsos?",
 "Você tem manias estranhas, gírias, hábitos irritantes, ou outra característica peculiar?",
