@@ -31,3 +31,5 @@ Criar portfólio com exercícios propostos durante o estudo de Python.
 ➡️ [Gerador - Fibonacci](https://github.com/arthurzkrause/estudos/blob/main/exercicios/fibonacci_generator_12_2023/codigo.py)<br>
 ➡️ [Alterar e ordenar valores](https://github.com/arthurzkrause/estudos/blob/main/exercicios/produtos_10percent_ordem_12_23/codigo.py)<br>
 ➡️ [100 Perguntas para personagens de RPG](https://github.com/arthurzkrause/estudos/blob/main/exercicios/cem_perguntas_RPG_01_2024/codigo.py)<br>
+➡️ [Formatação bloco de texto "...",](https://github.com/arthurzkrause/estudos/blob/main/exercicios/formatação_bloco_texto_01_24/codigo.py)<br>
+➡️ [Astragaloi](https://github.com/arthurzkrause/estudos/blob/main/exercicios/astragaloi_01_24/codigo.py)<br>
